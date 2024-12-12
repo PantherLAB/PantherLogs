@@ -38,8 +38,8 @@
 			<Item Name="New DQMH Unit Test" Type="Folder">
 				<Item Name="PantherLAB_Log - New DQMH Unit Test.vi" Type="VI" URL="../DQMH Scripting Plugins/New DQMH Unit Test/PantherLAB_Log - New DQMH Unit Test.vi"/>
 			</Item>
-			<Item Name="PantherDashboard Scripting Hooks" Type="Folder">
-				<Item Name="PantherLAB_Log.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherDashboard Scripting Hooks/PantherLAB_Log.lvlib"/>
+			<Item Name="PantherLAB Scripting Hooks" Type="Folder">
+				<Item Name="PantherLAB_Log.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Log.lvlib"/>
 			</Item>
 			<Item Name="Remove DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Remove DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Remove DQMH Event/PantherLAB_Log - Remove DQMH Event.vi"/>
