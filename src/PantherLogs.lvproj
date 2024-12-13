@@ -22,7 +22,6 @@
 			<Item Name="Convert DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Convert DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Convert DQMH Event/PantherLAB_Log - Convert DQMH Event.vi"/>
 			</Item>
-			<Item Name="Create DQMH Module Template" Type="Folder"/>
 			<Item Name="Create New DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Create New DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_Log - Create New DQMH Event.vi"/>
 			</Item>
@@ -38,8 +37,8 @@
 			<Item Name="New DQMH Unit Test" Type="Folder">
 				<Item Name="PantherLAB_Log - New DQMH Unit Test.vi" Type="VI" URL="../DQMH Scripting Plugins/New DQMH Unit Test/PantherLAB_Log - New DQMH Unit Test.vi"/>
 			</Item>
-			<Item Name="PantherDashboard Scripting Hooks" Type="Folder">
-				<Item Name="PantherLAB_Log.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherDashboard Scripting Hooks/PantherLAB_Log.lvlib"/>
+			<Item Name="PantherLAB Scripting Hooks" Type="Folder">
+				<Item Name="PantherLAB_Log.lvlib" Type="Library" URL="../DQMH Scripting Plugins/PantherLAB Scripting Hooks/PantherLAB_Log.lvlib"/>
 			</Item>
 			<Item Name="Remove DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Remove DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Remove DQMH Event/PantherLAB_Log - Remove DQMH Event.vi"/>
@@ -51,7 +50,8 @@
 				<Item Name="PantherLAB_Log - Rename DQMH Module.vi" Type="VI" URL="../DQMH Scripting Plugins/Rename DQMH Module/PantherLAB_Log - Rename DQMH Module.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Enable Panther Logs.vi" Type="VI" URL="../Enable Panther Logs.vi"/>
+		<Item Name="Panther Logs for DQMH.vi" Type="VI" URL="../Panther Logs for DQMH.vi"/>
+		<Item Name="READ this for building.txt" Type="Document" URL="../READ this for building.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
