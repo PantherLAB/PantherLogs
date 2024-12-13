@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-12-05 14:26:10" Modified_Date="2024-12-13 11:14:11" Creator="Enrique" Comments="" ID="9bb9b2d06c84a5093d617f881c53175e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-12-05 14:26:10" Modified_Date="2024-12-13 11:38:56" Creator="Enrique" Comments="" ID="20bfa7144bb65a2ff8170a922b71b562">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Panther_Logs</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -31,7 +31,7 @@
     <VI_Package_Configuration_File>Panther Logs.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>Panther Logs for DQMH® creates a log for each DQMH Task executed.</One_Line_Description_Summary>
-      <Description>&lt;b&gt;Panther Logs for DQMH®&lt;\b&gt;
+      <Description>&lt;b&gt;Panther Logs for DQMH®&lt;/b&gt;
 
 Sometimes we are busy solving the problems and we forget to keep tracking of our tasks, eventually, we end up with several LabVIEW files to commit, this tool will create a log of every DQMH Action you execute in your project.
 
@@ -40,9 +40,9 @@ This tool creates a file called &lt;PantherLAB_Log.csv&gt; next to the Active La
 Tt will create a log for each executed DQMH task .
 
 
-To enable/disable logging go to Tools-&gt;PantherLAB-&gt;&lt;b&gt;Panther Logs for DQMH&lt;\b&gt; and click the Checkbox.
+To enable/disable logging go to Tools-&gt;PantherLAB-&gt;&lt;b&gt;Panther Logs for DQMH&lt;/b&gt; and click the Checkbox.
 
-&lt;b&gt;Need to boost your LabVIEW project?&lt;\b&gt;
+&lt;b&gt;Need to boost your LabVIEW project?&lt;/b&gt;
 Whether you’re a manager, developer, or an engineering team, PantherLAB offers:
 -Software Development
 -Training
