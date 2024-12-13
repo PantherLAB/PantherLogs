@@ -22,7 +22,6 @@
 			<Item Name="Convert DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Convert DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Convert DQMH Event/PantherLAB_Log - Convert DQMH Event.vi"/>
 			</Item>
-			<Item Name="Create DQMH Module Template" Type="Folder"/>
 			<Item Name="Create New DQMH Event" Type="Folder">
 				<Item Name="PantherLAB_Log - Create New DQMH Event.vi" Type="VI" URL="../DQMH Scripting Plugins/Create New DQMH Event/PantherLAB_Log - Create New DQMH Event.vi"/>
 			</Item>
