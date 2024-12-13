@@ -50,7 +50,8 @@
 				<Item Name="PantherLAB_Log - Rename DQMH Module.vi" Type="VI" URL="../DQMH Scripting Plugins/Rename DQMH Module/PantherLAB_Log - Rename DQMH Module.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Enable Panther Logs.vi" Type="VI" URL="../Enable Panther Logs.vi"/>
+		<Item Name="Panther Logs for DQMH.vi" Type="VI" URL="../Panther Logs for DQMH.vi"/>
+		<Item Name="READ this for building.txt" Type="Document" URL="../READ this for building.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
