@@ -51,6 +51,7 @@
 			</Item>
 		</Item>
 		<Item Name="Panther Logs for DQMH.vi" Type="VI" URL="../Panther Logs for DQMH.vi"/>
+		<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Post-Install Custom Action.vi"/>
 		<Item Name="READ this for building.txt" Type="Document" URL="../READ this for building.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
