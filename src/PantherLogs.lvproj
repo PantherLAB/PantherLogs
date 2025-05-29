@@ -51,6 +51,8 @@
 			</Item>
 		</Item>
 		<Item Name="Panther Logs for DQMH.vi" Type="VI" URL="../Panther Logs for DQMH.vi"/>
+		<Item Name="Panther Style--constant.vi" Type="VI" URL="../Panther Style--constant.vi"/>
+		<Item Name="PantherLAB Branding.vi" Type="VI" URL="../PantherLAB Branding.vi"/>
 		<Item Name="Post-Install Custom Action.vi" Type="VI" URL="../Post-Install Custom Action.vi"/>
 		<Item Name="READ this for building.txt" Type="Document" URL="../READ this for building.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -58,6 +60,7 @@
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="dqmh_lib_DQMH Scripting Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/Delacor/Delacor QMH/Libraries/_Scripting Support/dqmh_lib_DQMH Scripting Support.lvlib"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
