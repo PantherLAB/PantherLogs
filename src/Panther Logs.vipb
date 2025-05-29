@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-12-05 14:26:10" Modified_Date="2025-03-26 17:45:40" Creator="Enrique" Comments="" ID="405de2801a154a7bf9aec590774ce3da">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-12-05 14:26:10" Modified_Date="2025-05-29 09:58:24" Creator="Enrique" Comments="" ID="46b2d9458b89617c910894427b45f731">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Panther_Logs</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>Z:\GitClones\Package\Panther Logs</Library_Output_Folder>
@@ -17,8 +17,8 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>delacor_lib_delacor_qmh_event_scripter &gt;= 7.1.0.1450</External_Dependencies>
-      <Direct_Dependencies>delacor_lib_delacor_qmh_event_scripter-7.1.0.1450</Direct_Dependencies>
+      <External_Dependencies>delacor_lib_delacor_qmh_event_scripter &gt;= 7.1.0.1503</External_Dependencies>
+      <Direct_Dependencies>delacor_lib_delacor_qmh_event_scripter-7.1.0.1503</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -37,7 +37,7 @@ Sometimes we are busy solving the problems and we forget to keep tracking of our
 
 This tool creates a file called &lt;PantherLAB_Log.csv&gt; next to the Active LabVIEW Project.
 
-Tt will create a log for each executed DQMH task .
+It will create a log for each executed DQMH task .
 
 
 To enable/disable logging go to Tools-&gt;PantherLAB-&gt;&lt;b&gt;Panther Logs for DQMH&lt;/b&gt; and click the Checkbox.
@@ -64,9 +64,8 @@ Panther Logs for DQMH
 This tool creates a file called &lt;PantherLAB_Log.csv&gt; next to the Active LabVIEW Project.
 
 It will create a log for each executed DQMH task .
-
-
-To enable/disable logging click the Checkbox.</Release_Notes>
+
+To enable/disable logging go to Tools-&gt;PantherLAB -&gt;Panther Logs for DQMH, and click the Checkbox.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -160,11 +159,17 @@ To enable/disable logging click the Checkbox.</Release_Notes>
       <Exclusions>
         <Path>PantherLogs.lvproj</Path>
       </Exclusions>
+      <Exclusions>
+        <Path>test Project</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>READ this for building.txt</Path>
+      </Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
     </Source_Files>
-    <License_Agreement_Filepath/>
+    <License_Agreement_Filepath>..\BS3 Licence.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
